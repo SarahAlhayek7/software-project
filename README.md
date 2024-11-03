@@ -6,8 +6,8 @@ This project is part of the Software Engineering course, developed by a team of 
 ---
 
 ### Taught by
-**Professor:** Dr. Osama Radwan
-**Teaching Assistant:** Eng. 
+**Professor:** Dr. Osama Radwan.
+**Teaching Assistant:** Eng. Nada Saleh , Eng. Lyna ElNaffar.
 
 ---
 
